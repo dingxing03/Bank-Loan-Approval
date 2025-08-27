@@ -1,4 +1,4 @@
-# 📊 Bank Loan Approval Prediction
+# Bank Loan Approval Prediction
 
 A machine learning project for predicting **bank loan approvals** using multiple classification models. The project explores data preparation, model training, evaluation, and deployment to assist financial institutions in making **data-driven lending decisions**.
 
